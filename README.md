@@ -2,6 +2,10 @@ Copy and paste the rcode from the file named "Final Draft.Rmd" and paste in you 
 
 for the report use the file "UNSW_DATA5002_Assignment_2.pdf"  
 
+The cleaned data is called "Cleaned Data.csv"
+
+The uncleaned data we downloaded from the UN data is called "Original Data(Unclean)"
+
 ## 🌍 About the Project
 An interactive Shiny dashboard analyzing global development indicators including mortality rates, fertility rates, and population growth across countries and regions. This project provides data visualization and insights into global health and demographic trends.
 
