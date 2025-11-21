@@ -1,4 +1,4 @@
-Copy and paste the rcode from the file named "app.R" and paste in you R env where all the dependencies are installed.
+Copy and paste the rcode from the file named "Final Draft.Rmd" and paste in you R env where all the dependencies are installed.
 
 for the report use the file "UNSW_DATA5002_Assignment_2.pdf"  
 
